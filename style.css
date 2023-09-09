@@ -1,0 +1,187 @@
+.westud1{
+  font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+color: #ffffff;
+
+width: 145px;
+height: 31px;
+
+
+}
+.westud{
+  font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+color: #2196F3;
+
+width: 145px;
+height: 31px;
+left: 215px;
+
+}
+.main {
+  align-self: center;
+  justify-content: center;
+}
+
+.div_top {
+  text-align: center;
+  height: 300px;
+  width: 100%;
+  background-color: rgb(60, 64, 64);
+}
+
+.div_top1 {
+  height: 300px;
+  width: 100%;
+  background-color: rgb(60, 64, 64);
+  text-align: start;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  font-family: 'Roboto';
+}
+
+.text_adrs{
+  
+position: absolute;
+width: 231px;
+height: 21px;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+letter-spacing: 0.03em;
+
+color: rgba(255, 255, 255, 0.6);
+}
+.text_adrs1{
+  position: absolute;
+width: 231px;
+height: 21px;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+letter-spacing: 0.03em;
+
+color:#FFFFFF;
+}
+.bg_tm_color {
+  background: #F5F4FA;
+  height: 648px;
+}
+
+.h2_top {
+  text-align: center;
+
+}
+
+button {
+  background: #008EB0;
+  color: #fff;
+  border: none;
+  padding: 1rem 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.pages-list {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.pages-item {
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.pages-list2 {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+
+
+
+/* img */
+.img1 {
+  width: 370px;
+  height: 294px;
+  background: url(creative-artist-web-design-with-working-colour-selection-graphic-tablet_35674-1119.jpg);
+}
+
+
+
+/* card bg */
+.tm_bg {
+
+  width: 270px;
+  height: 368px;
+  background: #FFFFFF;
+}
+
+/* material shadow v1 
+box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+border-radius: 0px 0px 4px 4px;
+*/
+
+/* img */
+.img_tm_card {
+  width: 270px;
+  height: 260px;
+  background: url(2968.jpg);
+  border-radius: 0px;
+
+}
+
+/* Михайло Єрмаков */
+.head_text_tm {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+
+/* UI Designer */
+.main_text_tm {
+  position: absolute;
+  width: 87px;
+  height: 19px;
+  left: 1207px;
+  top: 1951px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
